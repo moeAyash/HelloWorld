@@ -6,6 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World !");
 		System.out.println("Learning GitHub is interisting");
+		System.out.println("Author is Mohammad");
 	}
 
 }
